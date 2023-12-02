@@ -1,6 +1,6 @@
-## StudentHub Symfony TP
+## 🧑‍🎓StudentHub Symfony TP
 
-### Objectif du TP
+### 🥇Objectif du TP
 
 L'objectif de notre TP est de concevoir une application Symfony spécialisée dans la gestion d'un répertoire étudiant, avec l'intégration d'un système d'authentification.
 
@@ -8,3 +8,6 @@ L'objectif de notre TP est de concevoir une application Symfony spécialisée da
 
 1. **Lien pour la documentation TP :**
 https://docs.google.com/document/d/1_mFoCzz9AZ8eDl1jaHgdLSfMNECbE7A6JJvU0PJHJmo/edit?pli=1#heading=h.37o5xb65948r
+
+
+ Bon développement avec Symfony !
